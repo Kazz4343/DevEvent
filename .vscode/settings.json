@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "'JetBrainsMono Nerd Font','Droid Sans Mono', 'monospace', monospace",
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "formulahendry.auto-rename-tag",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16
+}
