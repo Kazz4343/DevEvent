@@ -4,5 +4,6 @@
     "editor.defaultFormatter": "formulahendry.auto-rename-tag",
     "files.autoSave": "afterDelay",
     "editor.formatOnSave": true,
-    "editor.fontSize": 16
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Catppuccin Mocha"
 }
